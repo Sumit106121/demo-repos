@@ -1,4 +1,6 @@
 # demo-repos
 This is my first Repository
 <br>
-Author-Sumit Kumawat
+Author-Sumit (coader)
+<br>
+This is my Practice Git Repos
